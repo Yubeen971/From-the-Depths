@@ -33,4 +33,18 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
+    public void Continue2()
+    {
+        SceneManager.LoadScene("Game 2");
+    }
+
+    public void Continue3()
+    {
+        SceneManager.LoadScene("Game 3");
+    }
+    public void Continue4()
+    {
+        SceneManager.LoadScene("Game 4");
+    }
+
 }
